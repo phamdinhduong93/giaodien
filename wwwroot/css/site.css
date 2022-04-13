@@ -1,0 +1,36 @@
+.sb-sidenav-dark {
+    background-color: #1f5081;
+    color: white;
+}
+.bg-dark {
+    background-color: #1c67a7!important;
+}
+.nav-link{
+    color: white!important;
+}
+.sb-sidenav-dark .sb-sidenav-menu .nav-link .sb-nav-link-icon{
+    color: white;
+}
+
+.sb-topnav.navbar-dark #sidebarToggle
+{
+    color: white;
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .sb-sidenav-menu-heading
+{
+    color: white;
+}
+
+.sb-sidenav-dark .sb-sidenav-footer {
+    background-color: #195b9d;
+}
+.card.card-main {
+    margin: 1px;
+    min-height: calc(100vh - 100px) !important;
+}
+.py-4 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
